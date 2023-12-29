@@ -1019,3 +1019,10 @@ To github.com:Xeoga/Note_Obsidian.git
    bca3f3a..6969870  master -> master
 To github.com:Xeoga/Note_Obsidian.git
    6969870..47eba92  master -> master
+To github.com:Xeoga/Note_Obsidian.git
+   47eba92..95c2043  master -> master
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
