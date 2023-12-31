@@ -2986,3 +2986,12 @@ Please make sure you have the correct access rights
 and the repository exists.
 To github.com:Xeoga/Note_Obsidian.git
    8667802..63c7d36  master -> master
+To github.com:Xeoga/Note_Obsidian.git
+   63c7d36..841fac3  master -> master
+To github.com:Xeoga/Note_Obsidian.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'github.com:Xeoga/Note_Obsidian.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
