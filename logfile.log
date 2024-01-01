@@ -4008,3 +4008,11 @@ To github.com:Xeoga/Note_Obsidian.git
    04011e3..11568ca  master -> master
 To github.com:Xeoga/Note_Obsidian.git
    11568ca..9a70235  master -> master
+Received disconnect from 140.82.121.4 port 22:11: Bye Bye
+Disconnected from 140.82.121.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+To github.com:Xeoga/Note_Obsidian.git
+   9a70235..2b5a91f  master -> master
