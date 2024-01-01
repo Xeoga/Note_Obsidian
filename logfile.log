@@ -4256,3 +4256,8 @@ To github.com:Xeoga/Note_Obsidian.git
 To github.com:Xeoga/Note_Obsidian.git
  ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at dbf551a6f1e5e53698ee995e9d337bbef1e2ec71 but expected 9a8aff6ad270f75718f1d08b5a81c1fbac78e64f)
 error: failed to push some refs to 'github.com:Xeoga/Note_Obsidian.git'
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
