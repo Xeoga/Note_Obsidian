@@ -3325,3 +3325,10 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+To github.com:Xeoga/Note_Obsidian.git
+   19e502b..c9b30a2  master -> master
+ssh_dispatch_run_fatal: Connection to 140.82.121.4 port 22: Network is unreachable
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
