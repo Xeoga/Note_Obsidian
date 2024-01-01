@@ -4261,3 +4261,11 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+kex_exchange_identification: read: Connection reset by peer
+Connection reset by 140.82.121.3 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+To github.com:Xeoga/Note_Obsidian.git
+   dbf551a..2471365  master -> master
