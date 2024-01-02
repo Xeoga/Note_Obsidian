@@ -5676,3 +5676,8 @@ To github.com:Xeoga/Note_Obsidian.git
    cd62ce5..a4bc09e  master -> master
 To github.com:Xeoga/Note_Obsidian.git
    a4bc09e..6cd4756  master -> master
+To github.com:Xeoga/Note_Obsidian.git
+   6cd4756..10c45d3  master -> master
+client_loop: send disconnect: Broken pipe
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
