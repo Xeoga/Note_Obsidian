@@ -6067,3 +6067,10 @@ To github.com:Xeoga/Note_Obsidian.git
    9d9ad60..8d81d04  master -> master
 To github.com:Xeoga/Note_Obsidian.git
    8d81d04..f740fc3  master -> master
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+To github.com:Xeoga/Note_Obsidian.git
+   f740fc3..4787110  master -> master
